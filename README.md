@@ -1,7 +1,7 @@
 # HumanFt
 
 <b>HumanFT: A Human-like Fingertip Multimodal Visuo-tactile Sensor</b> <br>
-Yifan Wu, Yuzhou Chen,
+[Yifan Wu](https://github.com/YifanWu2001), Yuzhou Chen,
 Zhengying Zhu,
 [Xuhao Qin](https://github.com/helloXqin), and
 [Chenxi Xiao](https://scholar.google.com/citations?user=Qhiy3doAAAAJ&hl=en) <br>
