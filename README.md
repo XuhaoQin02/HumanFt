@@ -5,8 +5,8 @@
 Zhengying Zhu,
 [Xuhao Qin](https://github.com/helloXqin), and
 [Chenxi Xiao](https://scholar.google.com/citations?user=Qhiy3doAAAAJ&hl=en) <br>
-ICRA' 2025<br>
-[Arxiv Paper](https://arxiv.org/abs/2410.10353) 
+ 2025 IEEE International Conference on Robotics and Automation (ICRA)<br>
+[Paper](https://ieeexplore.ieee.org/document/11128300) 
 
 **This repository contains the hardware source files for the paper:**
 
